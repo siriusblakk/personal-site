@@ -1,12 +1,7 @@
 const skills = [
-  {
-    title: 'MongoDB',
-    competency: 3,
-    category: ['Web Development', 'Databases'],
-  },
-  {
+   {
     title: 'PostgreSQL/SQLite3/SQL/Redshift',
-    competency: 4,
+    competency: 2,
     category: ['Web Development', 'Databases', 'Languages'],
   },
   {
@@ -26,12 +21,12 @@ const skills = [
   },
   {
     title: 'Python',
-    competency: 5,
+    competency: 4,
     category: ['Languages', 'Python', 'ML Engineering'],
   },
   {
     title: 'MATLAB',
-    competency: 2,
+    competency: 4,
     category: ['Languages'],
   },
   {
@@ -46,7 +41,12 @@ const skills = [
   },
   {
     title: 'Pandas',
-    competency: 5,
+    competency: 4,
+    category: ['Data Engineering', 'ML Engineering', 'Python'],
+  },
+  {
+    title: 'Plotly',
+    competency: 4,
     category: ['Data Engineering', 'ML Engineering', 'Python'],
   },
   {
@@ -56,8 +56,23 @@ const skills = [
   },
   {
     title: 'Scikit-Learn',
-    competency: 4,
+    competency: 3,
     category: ['Data Engineering', 'ML Engineering', 'Python'],
+  },
+  {
+    title: 'LabVIEW',
+    competency: 4,
+    category: ['Data Engineering', 'Experimentation'],
+  },
+  {
+    title: 'Engineering Equation Solve (EES)',
+    competency: 5,
+    category: ['Thermodynamics','Heat Transfer'],
+  },
+  {
+    title: 'SolidWorks',
+    competency: 4,
+    category: ['Computer Aided Design'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 
@@ -75,6 +90,10 @@ const colors = [
   '#d75858',
   '#747fff',
   '#64cb7b',
+  '#6968b3',
+  '#37b1f5',
+  '#40494e',
+  '#515dd4',
 ];
 
 const categories = [
