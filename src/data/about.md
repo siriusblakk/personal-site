@@ -1,8 +1,8 @@
 # Intro
 
-Hi! I am a Test Engineer and Social Investment Lead at Energy Recovery. I accelerate data to decision pipelines through experiment design, test controls, data analysis, and cross-functional communication. I also lead a ~6 person taskforce to execute a $100,000 budget for company sponsored volunteer events and corporate donations.
+Hi! I am a Test Engineer and Social Investment Lead at Energy Recovery. I accelerate data to decision pipelines through technology, experiment design, test controls, data analysis, and cross-functional communication. I also lead a ~6 person taskforce to execute a $100,000 budget for company sponsored volunteer events and corporate donations.
 
-Outside of work, I am often found hiking across the Oakland hills or devouring a bowl of ramen. Really. I never had ramen before working in California and it has changed my life.
+Outside of work, I am often found hiking across the Oakland hills or devouring bowls of ramen. Seriously. I never had ramen before working in California and it has changed my life.
 
 # I like
 
