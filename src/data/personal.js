@@ -1,6 +1,13 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Oak Rocking Chair',
+    subtitle: 'A gift for my family.',
+    image: '/images/projects/chair.jpg',
+    date: '2022-03-31',
+    desc: 'Took me over 100 hours.',
+  },
+  {
     title: 'Nagu and NYC',
     subtitle: 'Sketch of NYC Skyline',
     image: '/images/projects/NYC.png',
