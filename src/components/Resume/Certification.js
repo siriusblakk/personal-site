@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import Certification from './Certification/Certification';
+import Degree from './Certifications/Certification';
 
 const Certification = ({ data }) => (
   <div className="certification">
@@ -9,7 +9,7 @@ const Certification = ({ data }) => (
     <div className="title">
       <h3>Certification</h3>
     </div>
-    {data.map((certification) => (
+    {data.map((degree) => (
       <Degree
         data={degree}
         key={degree.school}
