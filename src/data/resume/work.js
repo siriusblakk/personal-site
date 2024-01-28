@@ -35,7 +35,7 @@ const work = [
     position: 'Research Assistant',
     url: 'https://sel.me.wisc.edu/',
     startDate: '2020-06-01',
-    summary: `Experimental qualification of additively manufactured, topology optimized heat sinks.`,
+    summary: 'Experimental qualification of additively manufactured, topology optimized heat sinks.',
     highlights: [
       'Developed experience in design, manufacuture, instrumentation, and validation of experiment testing forced convection heat sink performance (air and water)',
       'Designed and analyzed printed circuit heat exchanger (PCHE) for molten chloride salt to supercritical CO2 with analytical models, correlations, and ANSYS Mechanical.',
@@ -49,10 +49,10 @@ const work = [
     position: 'R&D Intern',
     url: 'https://www.stellantis.com/en',
     startDate: '2018-06-01',
-    summary: `Jeep Wagoneer`,
+    summary: 'Jeep Wagoneer',
     highlights: [
       'Upgraded predictions of exhaust routing\'s installation positional variance with GD&T tolerancing.',
-      'Verified model\'s accuracy on assembly line. Increased predictive accuracy by 50%.'
+      'Verified model\'s accuracy on assembly line. Increased predictive accuracy by 50%.',
     ],
   },
 ];

@@ -1,5 +1,5 @@
 const skills = [
-   {
+  {
     title: 'PostgreSQL/SQLite3/SQL/Redshift',
     competency: 2,
     category: ['Web Development', 'Databases', 'Languages'],
