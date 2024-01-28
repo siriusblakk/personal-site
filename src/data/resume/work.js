@@ -55,7 +55,6 @@ const work = [
       'Verified model\'s accuracy on assembly line. Increased predictive accuracy by 50%.'
     ],
   },
-
 ];
 
 export default work;

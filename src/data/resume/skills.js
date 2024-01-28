@@ -65,7 +65,7 @@ const skills = [
     category: ['Data Engineering', 'Experimentation'],
   },
   {
-    title: 'Engineering Equation Solve (EES)',
+    title: 'Engineering Equation Solver (EES)',
     competency: 5,
     category: ['Thermodynamics','Heat Transfer'],
   },
