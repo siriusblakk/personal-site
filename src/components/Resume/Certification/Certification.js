@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 const Certification = ({ data }) => (
   <article className="certification-container">
     <header>
-      <h4 className="certification">{data.degree}</h4>
+      <h4 className="degree">{data.degree}</h4>
       <p className="school"><a href={data.link}>{data.school}</a>, {data.year}</p>
     </header>
   </article>

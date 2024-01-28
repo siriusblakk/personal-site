@@ -10,9 +10,9 @@ const Certification = ({ data }) => (
       <h3>Certification</h3>
     </div>
     {data.map((certification) => (
-      <Certification
-        data={certification}
-        key={certification.school}
+      <Degree
+        data={degree}
+        key={degree.school}
       />
     ))}
   </div>
