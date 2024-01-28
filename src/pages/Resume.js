@@ -4,14 +4,14 @@ import { Link } from 'react-router-dom';
 import Main from '../layouts/Main';
 
 import Education from '../components/Resume/Education';
-import Certification from '../components/Resume/Certification';
+//import Certification from '../components/Resume/Certification';
 import Experience from '../components/Resume/Experience';
 import Skills from '../components/Resume/Skills';
 import Courses from '../components/Resume/Courses';
 import References from '../components/Resume/References';
 
 import courses from '../data/resume/courses';
-import certification from '../data/resume/certification';
+//import certification from '../data/resume/certification';
 import degrees from '../data/resume/degrees';
 import work from '../data/resume/work';
 import { skills, categories } from '../data/resume/skills';
@@ -19,7 +19,7 @@ import { skills, categories } from '../data/resume/skills';
 // NOTE: sections are displayed in order defined.
 const sections = {
   Education: () => <Education data={degrees} />,
-  Certification: () => <Certification data={certification} />,
+ // Certification: () => <Certification data={certification} />,
   Experience: () => <Experience data={work} />,
   Skills: () => <Skills skills={skills} categories={categories} />,
   Courses: () => <Courses data={courses} />,
