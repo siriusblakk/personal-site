@@ -49,7 +49,7 @@ const work = [
     position: 'R&D Intern',
     url: 'https://www.stellantis.com/en',
     startDate: '2018-06-01',
-    summary: ``,
+    summary: `Jeep Wagoneer`,
     highlights: [
       'Upgraded predictions of exhaust routing\'s installation positional variance with GD&T tolerancing.',
       'Verified model\'s accuracy on assembly line. Increased predictive accuracy by 50%.'
