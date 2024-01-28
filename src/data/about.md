@@ -6,14 +6,10 @@ Outside of work, I am often found hiking across the Oakland hills or devouring a
 
 # I like
 
-- Running
-- Swimming
-- Biking
-- Cross Country Skiing
+- Endurance sports (running, hiking, swimming, biking, nordic skiing, backpacking)
+- Public Transportation
 - Fishing
 - Ramen
-- Hiking
-- Backpacking
 - Symphony Orchestras
 - Sketching
 - Dark Chocolate
@@ -32,7 +28,7 @@ Outside of work, I am often found hiking across the Oakland hills or devouring a
 - Flannels are my favorite clothing accessory.
 - I've skied the [Birkie](https://www.birkie.com/) 6 times.
 - Built an oak rocking chair.
-- Love a wet sauna.
+- Big fan of wet saunas.
 
 
 # I dream of

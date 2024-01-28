@@ -37,7 +37,7 @@ const courses = [
   },
   {
     title: 'Sign Language I',
-    number: 'CS$S 424',
+    number: 'CS&D 424',
     link: 'https://guide.wisc.edu/courses/cs_d/',
     university: 'UW-Madison',
   },
