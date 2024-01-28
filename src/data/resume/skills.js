@@ -92,8 +92,6 @@ const colors = [
   '#64cb7b',
   '#6968b3',
   '#37b1f5',
-  '#40494e',
-  '#515dd4',
 ];
 
 const categories = [
