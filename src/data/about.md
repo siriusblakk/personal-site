@@ -1,6 +1,6 @@
 # Intro
 
-I am a Test Engineer and Social Investment Lead at Energy Recovery. I accelerate data to decision pipelines through experiment design, test controls, data analysis, and cross-functional communication. I also lead a ~6 person taskforce to execute a $100,000 budget for company sponsored volunteer events and corporate donations.
+Hi! I am a Test Engineer and Social Investment Lead at Energy Recovery. I accelerate data to decision pipelines through experiment design, test controls, data analysis, and cross-functional communication. I also lead a ~6 person taskforce to execute a $100,000 budget for company sponsored volunteer events and corporate donations.
 
 Outside of work, I am often found hiking across the Oakland hills or devouring a bowl of ramen. Really. I never had ramen before working in California and it has changed my life.
 
@@ -10,6 +10,7 @@ Outside of work, I am often found hiking across the Oakland hills or devouring a
 - Swimming
 - Biking
 - Cross Country Skiing
+- Fishing
 - Ramen
 - Hiking
 - Backpacking
@@ -20,7 +21,7 @@ Outside of work, I am often found hiking across the Oakland hills or devouring a
 
 # Travel / Geography
 
-- I am originally from Minnetonka, Minnesota. I have since lived in Madison, Detroit, and San Fransisco.
+- I am originally from Minnetonka, Minnesota. I have since lived in Madison, Detroit, and San Francisco.
 - My favorite travelling companion is a set of ear plugs. Planes, Bart, and tired babies can get loud.
 - I'm begrudgingly falling in love with the Bay Area.
 
@@ -31,6 +32,7 @@ Outside of work, I am often found hiking across the Oakland hills or devouring a
 - Flannels are my favorite clothing accessory.
 - I've skied the [Birkie](https://www.birkie.com/) 6 times.
 - Built an oak rocking chair.
+- Love a wet sauna.
 
 
 # I dream of
@@ -39,3 +41,4 @@ Outside of work, I am often found hiking across the Oakland hills or devouring a
 - Staying curious.
 - Continually improving.
 - Having a family one day.
+- Owning a home and woodshop.
