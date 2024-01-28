@@ -62,17 +62,17 @@ const skills = [
   {
     title: 'LabVIEW',
     competency: 4,
-    category: ['Data Engineering', 'Experimentation'],
+    category: ['Data Engineering'],
   },
   {
     title: 'Engineering Equation Solver (EES)',
     competency: 5,
-    category: ['Thermodynamics','Heat Transfer'],
+    category: [],
   },
   {
     title: 'SolidWorks',
     competency: 4,
-    category: ['Computer Aided Design'],
+    category: [],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 
@@ -91,7 +91,6 @@ const colors = [
   '#747fff',
   '#64cb7b',
   '#6968b3',
-  '#37b1f5',
 ];
 
 const categories = [
