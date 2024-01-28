@@ -1,25 +1,28 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nagu and NYC',
-    subtitle: 'Sketch of NYC Skyline',
-    image: '/images/projects/NYC.png',
-    date: '2019-07-20',
-    desc: 'Visited life-long friend in NYC. On our way to his office, we got stopped by +10 people that knew him. I left thinking he was king of NYC.',
+    title: '2D Numerical Conduction-Convection Model',
+    subtitle: 'Built with EES and MATLAB',
+    link: 'https://drive.google.com/file/d/13TLhmyqTMj7bsh-1RAe7QUbPgDDCXZ7j/view?usp=sharing',
+    image: '/images/projects/RectFin.png',
+    date: '2022-05-01',
+    desc: 'Experimental performance of microchannel heat sink was not matching classical fin efficiency predictions. A 2D model was built to capture the impact of axial conduction and rising fluid temperatures.',
   },
   {
-    title: 'Madison, WI in Summer',
-    subtitle: 'Capturing the shade and skyline.',
-    image: '/images/projects/MadisonTree.png',
-    date: '2022-07-01',
-    desc: 'The leaves were tedious but I love the depth of the canopy.',
+    title: 'Characterization of Topology Optimized, Additively Manufactured Heat Sinks',
+    subtitle: 'I was responsible for the experimental thermal/hydraulic performance and surface characterization.',
+    link: 'https://sel.me.wisc.edu/publications-theses.shtml',
+    image: '/images/projects/OverlayColorPlot.jpg',
+    date: '2022-05-01',
+    desc: 'Studying the surface structure of the sintered heat sinks revealed positive features from overhang angles and melt pool splatter. This figure was obtained by overlaying a point cloud from a micro-CT scan with the print\'s step file.',
   },
   {
-    title: 'Anchorage, AK in Winter',
-    subtitle: 'View of mountain from butte.',
-    image: '/images/projects/AK.png',
-    date: '2019-01-10',
-    desc: 'This mountain exploded from flat ground.',
+    title: 'Experimental Verification of 2D Model and Insight into Optimization Model',
+    subtitle: 'Water test loop to measure thermal resistance and hydraulic penalty.',
+    link: 'https://sel.me.wisc.edu/publications-theses.shtml',
+    image: '/images/projects/UAvsdP.png',
+    date: '2022-05-01',
+    desc: 'The conventional geometries (RF) matched predictions after sanding (_S) while the optimized geometries (TO) did not perform to the modelling team\'s expectations.',
   },
 ];
 
