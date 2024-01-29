@@ -2,12 +2,12 @@ const skills = [
   {
     title: 'PostgreSQL/SQLite3/SQL/Redshift',
     competency: 2,
-    category: ['Web Development', 'Databases', 'Languages'],
+    category: ['Web Development', 'Databases'],
   },
   {
     title: 'Git/Mercurial',
-    competency: 3,
-    category: ['Tools'],
+    competency: 2,
+    category: ['Databases'],
   },
   {
     title: 'Numpy',
@@ -22,22 +22,22 @@ const skills = [
   {
     title: 'Python',
     competency: 4,
-    category: ['Languages', 'Python', 'ML Engineering'],
+    category: ['Python', 'ML Engineering'],
   },
   {
     title: 'MATLAB',
     competency: 4,
-    category: ['Languages'],
+    category: ['Data Science'],
   },
   {
     title: 'R',
     competency: 2,
-    category: ['Languages'],
+    category: ['Data Science'],
   },
   {
     title: 'Data Visualization',
     competency: 3,
-    category: ['Data Science', 'Javascript'],
+    category: ['Data Science'],
   },
   {
     title: 'Pandas',
@@ -61,18 +61,33 @@ const skills = [
   },
   {
     title: 'LabVIEW',
-    competency: 4,
+    competency: 3,
     category: ['Data Engineering'],
   },
   {
     title: 'Engineering Equation Solver (EES)',
     competency: 5,
-    category: [],
+    category: ['Thermodynamics'],
   },
   {
     title: 'SolidWorks',
+    competency: 3,
+    category: ['Computer Aided Design'],
+  },
+  {
+    title: 'Instrumentation',
     competency: 4,
-    category: [],
+    category: ['Experimentatino'],
+  },
+  {
+    title: 'Component Selection',
+    competency: 3,
+    category: ['Experimentation'],
+  },
+  {
+    title: 'Thermal Analysis',
+    competency: 4,
+    category: ['Thermodynamics'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 

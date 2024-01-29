@@ -1,47 +1,28 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
-    desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+    title: '2D Numerical Conduction-Convection Model',
+    subtitle: 'Built with EES and MATLAB',
+    link: 'https://drive.google.com/file/d/13TLhmyqTMj7bsh-1RAe7QUbPgDDCXZ7j/view?usp=sharing',
+    image: '/images/projects/RectFin.png',
+    date: '2022-05-01',
+    desc: 'Experimental performance of microchannel heat sink was not matching classical fin efficiency predictions. A 2D model was built to capture the impact of axial conduction and rising fluid temperatures.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
-    desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+    title: 'Characterization of Topology Optimized, Additively Manufactured Heat Sinks',
+    subtitle: 'I was responsible for the experimental thermal/hydraulic performance and surface characterization.',
+    link: 'https://sel.me.wisc.edu/publications-theses.shtml',
+    image: '/images/projects/OverlayColorPlot.jpg',
+    date: '2022-05-01',
+    desc: 'Studying the surface structure of the sintered heat sinks revealed positive features from overhang angles and melt pool splatter. This figure was obtained by overlaying a point cloud from a micro-CT scan with the print\'s step file.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
-    desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
-  },
-  {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
-    desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+    title: 'Experimental Verification of 2D Model and Insight into Optimization Model',
+    subtitle: 'Water test loop to measure thermal resistance and hydraulic penalty.',
+    link: 'https://sel.me.wisc.edu/publications-theses.shtml',
+    image: '/images/projects/UAvsdP.png',
+    date: '2022-05-01',
+    desc: 'The conventional geometries (RF) matched predictions after sanding (_S) while the optimized geometries (TO) did not perform to the modelling team\'s expectations.',
   },
 ];
 
