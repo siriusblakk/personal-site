@@ -17,16 +17,15 @@ const work = [
     position: 'Test Engineer',
     url: 'https://energyrecovery.com/',
     startDate: '2022-06-01',
-    summary: `Energy Recovery makes pressure exchanges. These devices reduce the entropy generation in an indusutrial 
-    thermal fluid process. For 30 years, this technology has enabled desalination. Now, Energy Recovery is entering the 
+    summary: `Energy Recovery makes pressure exchangers. These devices reduce the entropy generation in an indusutrial 
+    thermal-fluid process. For 30 years, this technology has economically enabled desalination. Now, Energy Recovery is entering the 
     CO2 refrigeration industry by enabling environementally sustainable refrigeration. I lead testing on experimental
     water and CO2 test loops were we explore and advance pressure exchanger innovations.`,
     highlights: [
       'Modeled, designed, defended, and built innovative 150kW CO2 experimental refrigeration test loop to recycle process heat.',
-      'Create and own P&IDs, control systems (LabVIEW), data analysis scripts (MATLAB and Python), and instrumentation on loops.',
+      'Create and own P&ID\'s, control systems (LabVIEW), data analysis scripts (MATLAB and Python), and instrumentation on loops.',
       'Component sizing for R&D and Business Installations: Pumps, Heat Exchangers, Valves, Compressors, ect.',
-      'Team Lead for Volunteering Arm of Energy Recovery. Own and execute $100,000 budget and 6 person team to enable cross-functional volunteering events.',
-      'Measure and analyze high-speed vibration and sound (25.6kHz) at challenging product installations internationally and state-side. Lead missions to identify problem, exact solutions, and communicate output to executive staff.',
+      'Measure and analyze high-speed vibration and sound (25.6kHz) at challenging product installations internationally and state-side. Led missions to identify problem, exact solutions, and communicate impact to executive leadership.',
       'Led volunteer taskforce with $100,000 budget to develop cross functional volunteering opportunities that allign with Energy Recovery\'s mission.',
     ],
   },

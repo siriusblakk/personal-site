@@ -6,7 +6,7 @@ const data = [
     link: 'https://drive.google.com/file/d/13TLhmyqTMj7bsh-1RAe7QUbPgDDCXZ7j/view?usp=sharing',
     image: '/images/projects/RectFin.png',
     date: '2022-05-01',
-    desc: 'Experimental performance of microchannel heat sink was not matching classical fin efficiency predictions. A 2D model was built to capture the impact of axial conduction and rising fluid temperatures.',
+    desc: 'Experimental performance of microchannel heat sink was not matching classical fin efficiency predictions. A 2D numerical model was built to capture the impact of axial conduction and rising fluid temperatures.',
   },
   {
     title: 'Characterization of Topology Optimized, Additively Manufactured Heat Sinks',
@@ -14,7 +14,7 @@ const data = [
     link: 'https://sel.me.wisc.edu/publications-theses.shtml',
     image: '/images/projects/OverlayColorPlot.jpg',
     date: '2022-05-01',
-    desc: 'Studying the surface structure of the sintered heat sinks revealed positive features from overhang angles and melt pool splatter. This figure was obtained by overlaying a point cloud from a micro-CT scan with the print\'s step file.',
+    desc: 'Studying the surface structure of the sintered heat sinks revealed positive features from severe overhang angles and melt pool splatter. This figure was obtained by overlaying a point cloud from a micro-CT scan with the print\'s STEP file.',
   },
   {
     title: 'Experimental Verification of 2D Model and Insight into Optimization Model',
