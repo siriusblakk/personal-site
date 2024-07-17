@@ -18,13 +18,13 @@ const work = [
     url: 'https://energyrecovery.com/',
     startDate: '2022-06-01',
     endDate: '2024-07-26',
-    summary: `I lead testing on experimental water and CO2 test loops where we explore and advance pressure exchanger innovations in energy systems. Additionally, I help design and execute activities to invest in our community. In 2024 I led a team to deliver earth day park cleaning events, a blood drive, a school supply drive, and a food donation drive.`,
+    summary: `I led testing on experimental water and CO2 test loops. Additionally, I helped design and execute volunteer activities to invest in our community.',
     highlights: [
       'Modeled, designed, defended, and built innovative 150kW CO2 experimental refrigeration test loop to recycle process heat.',
       'Create and own P&ID\'s, control systems (LabVIEW), data analysis scripts (MATLAB and Python), and instrumentation on loops.',
       'Component sizing for R&D and Business Installations: Pumps, Heat Exchangers, Valves, Compressors, ect.',
       'Measure and analyze high-speed vibration and sound (25.6kHz) at challenging product installations internationally and state-side. Led missions to identify problem, exact solutions, and communicate impact to executive leadership.',
-      'Led volunteer taskforce with $100,000 budget to develop cross functional volunteering opportunities that allign with Energy Recovery\'s mission.',
+      'Led volunteer taskforce with $100,000 budget to develop cross functional volunteering opportunities that allign with Energy Recovery\'s mission. Events included Earth Day park cleanups, blood donation drives, and school supply drives.',
     ],
   },
   {
