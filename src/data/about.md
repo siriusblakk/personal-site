@@ -1,8 +1,8 @@
 # Intro
 
-Hi! I am a Test Engineer and Social Investment Program Lead at Energy Recovery. I accelerate product data to decision pipelines through technology, experiment design, test controls, data analysis, and cross-functional communication. I also lead a ~6 person taskforce to execute a $100,000 budget for company sponsored volunteer events and corporate donations.
+Hi! My name is Gunnar and I am an MBA student at Michigan Ross. I am passionate about equitable education, impactful leadership, and sustainable energy.  
 
-Outside of work, I am often found hiking across the Oakland hills or devouring bowls of ramen. Seriously. I never had ramen before working in California and it has changed my life.
+This website is designed to vulnerably share my values and personality. I love meeting new people, so feel free to reach out!
 
 # I like
 
@@ -15,21 +15,20 @@ Outside of work, I am often found hiking across the Oakland hills or devouring b
 - Dark Chocolate
 - Reading Fantasy Novels
 - America's Test Kitchen Cookbooks
+- Lifting Weights to Pop Music
 
 # Travel / Geography
 
-- I am originally from Minnetonka, Minnesota. I have since lived in Madison, Detroit, and San Francisco.
+- I am originally from Minnetonka, Minnesota. I have since lived in Madison, Detroit, Livermore, Berkeley, and Ann Arbor.
 - My favorite travelling companion is a set of ear plugs. Planes, Bart, and tired babies can get loud.
-- I'm begrudgingly falling in love with the Bay Area.
-
 
 # Fun facts
 
 - Popcorn addict.
-- Flannels are my favorite clothing accessory.
+- Wool socks are my favorite clothing accessory.
 - I've skied the [Birkie](https://www.birkie.com/) 6 times.
 - Built an oak rocking chair.
-- Big fan of wet saunas.
+- Big fan of saunas.
 
 
 # I dream of
@@ -37,5 +36,6 @@ Outside of work, I am often found hiking across the Oakland hills or devouring b
 - Surrounding myself with stellar people.
 - Staying curious.
 - Continuously improving.
-- Having a family one day.
-- Owning a home and woodshop.
+- Building my family.
+- Constructing a woodshop.
+- Collecting first edition books.

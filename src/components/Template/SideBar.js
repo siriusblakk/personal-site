@@ -19,10 +19,8 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Gunnar. I am a <a href="https://engineering.wisc.edu/departments/mechanical-engineering/">UW-Madison ME</a> graduate, NSF I-CORPS Alum,
-        and Test Engineer at <a href="https://energyrecovery.com/">Energy Recovery</a>. Previously,
-        I was a Graduate Researcher at the <a href="https://sel.me.wisc.edu/">Solar Energy Laboratory (SEL)</a> under
-        Greg Nellis and Mark Anderson.
+      <p>Hi, I&apos;m Gunnar. When I grow up, I want to be a Renaissance man. I am an MBA student at Michigan Ross, a <a href="https://engineering.wisc.edu/departments/mechanical-engineering/">UW-Madison ME</a> Alum, recreational artist and musician,
+        and previously was a Test Engineer at <a href="https://energyrecovery.com/">Energy Recovery</a>.
       </p>
       <ul className="actions">
         <li>

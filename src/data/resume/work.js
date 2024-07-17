@@ -14,13 +14,15 @@
 const work = [
   {
     name: 'Energy Recovery',
-    position: 'Test Engineer',
+    position: 'Test Engineer and Lead for the Social Investment Program (SIP) Taskforce',
     url: 'https://energyrecovery.com/',
     startDate: '2022-06-01',
-    summary: `Energy Recovery makes pressure exchangers. These devices reduce the entropy generation in an indusutrial 
+    summary: `Energy Recovery makes pressure exchangers. These devices reduce the entropy generation in an industrial 
     thermal-fluid process. For 30 years, this technology has economically enabled desalination. Now, Energy Recovery is entering the 
     CO2 refrigeration industry by enabling environementally sustainable refrigeration. I lead testing on experimental
-    water and CO2 test loops were we explore and advance pressure exchanger innovations.`,
+    water and CO2 test loops where we explore and advance pressure exchanger innovations.
+    
+    Additionally, I help design and execute activities to invest in our community. In 2024 I led a team to deliver earth day park cleaning events, a blood drive, a school supply drive, and a food donation drive.`,
     highlights: [
       'Modeled, designed, defended, and built innovative 150kW CO2 experimental refrigeration test loop to recycle process heat.',
       'Create and own P&ID\'s, control systems (LabVIEW), data analysis scripts (MATLAB and Python), and instrumentation on loops.',
