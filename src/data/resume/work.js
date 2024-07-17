@@ -18,7 +18,8 @@ const work = [
     url: 'https://energyrecovery.com/',
     startDate: '2022-06-01',
     endDate: '2024-07-26',
-    summary: `I led testing on experimental water and CO2 test loops. Additionally, I helped design and execute volunteer activities to invest in our community.',
+    summary: 'I led testing on experimental water and CO2 test loops. Additionally, I helped design and execute volunteer activities to invest in our community.',
+
     highlights: [
       'Modeled, designed, defended, and built innovative 150kW CO2 experimental refrigeration test loop to recycle process heat.',
       'Create and own P&ID\'s, control systems (LabVIEW), data analysis scripts (MATLAB and Python), and instrumentation on loops.',
