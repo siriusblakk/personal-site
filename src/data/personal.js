@@ -5,7 +5,7 @@ const data = [
     subtitle: '',
     image: '/images/projects/Grand-Tetons-Snake-River-2024-1.png',
     date: '2024-07-16',
-    desc: 'A gift to Dad. We fly fished on the Snake in 2024 and I thought Ansel Adam\'s photo was a great inspiration for the marriage between the river, the mountain, and the view.',
+    desc: 'A gift to Dad. We fly fished on the Snake in 2024 and I thought Ansel Adams\' photo was a great inspiration for the marriage between the river, the mountain, and the view.',
   },
   {
     title: 'Oak Rocking Chair',
@@ -15,18 +15,18 @@ const data = [
     desc: 'I owe a big thanks to the TEAM Lab at UW-Madison for this. I processed oak planks for over 100 hours to build this. Thank you!',
   },
   {
-    title: 'Nagu and NYC',
-    subtitle: 'Sketch of NYC Skyline',
-    image: '/images/projects/NYC.png',
-    date: '2019-07-20',
-    desc: 'Visited life-long friend in NYC. On our way to his office, we got stopped by +10 people that knew him. I left thinking he was king of NYC.',
-  },
-  {
     title: 'Madison, WI in Summer',
     subtitle: '',
     image: '/images/projects/MadisonTree.png',
     date: '2022-07-01',
     desc: 'Capturing the shade and skyline on a summer afternoon. The leaves were tedious but I love the depth of the canopy.',
+  },
+  {
+    title: 'Nagu and NYC',
+    subtitle: 'Sketch of NYC Skyline',
+    image: '/images/projects/NYC.png',
+    date: '2019-07-20',
+    desc: 'Visited life-long friend in NYC. On our way to his office, we got stopped by +10 people that knew him. I left thinking he was king of NYC.',
   },
   {
     title: 'Anchorage, AK in Winter',

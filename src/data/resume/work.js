@@ -17,12 +17,8 @@ const work = [
     position: 'Test Engineer and Lead for the Social Investment Program (SIP) Taskforce',
     url: 'https://energyrecovery.com/',
     startDate: '2022-06-01',
-    summary: `Energy Recovery makes pressure exchangers. These devices reduce the entropy generation in an industrial 
-    thermal-fluid process. For 30 years, this technology has economically enabled desalination. Now, Energy Recovery is entering the 
-    CO2 refrigeration industry by enabling environementally sustainable refrigeration. I lead testing on experimental
-    water and CO2 test loops where we explore and advance pressure exchanger innovations.
-    
-    Additionally, I help design and execute activities to invest in our community. In 2024 I led a team to deliver earth day park cleaning events, a blood drive, a school supply drive, and a food donation drive.`,
+    endDate: '2024-07-26',
+    summary: `I lead testing on experimental water and CO2 test loops where we explore and advance pressure exchanger innovations in energy systems. Additionally, I help design and execute activities to invest in our community. In 2024 I led a team to deliver earth day park cleaning events, a blood drive, a school supply drive, and a food donation drive.`,
     highlights: [
       'Modeled, designed, defended, and built innovative 150kW CO2 experimental refrigeration test loop to recycle process heat.',
       'Create and own P&ID\'s, control systems (LabVIEW), data analysis scripts (MATLAB and Python), and instrumentation on loops.',
@@ -36,6 +32,7 @@ const work = [
     position: 'Research Assistant',
     url: 'https://sel.me.wisc.edu/',
     startDate: '2020-06-01',
+    endDate: '2022-05-15',
     summary: 'Experimental qualification of additively manufactured, topology optimized heat sinks.',
     highlights: [
       'Developed experience in design, manufacuture, instrumentation, and validation of experiment testing forced convection heat sink performance (air and water)',
@@ -50,6 +47,7 @@ const work = [
     position: 'R&D Intern',
     url: 'https://www.stellantis.com/en',
     startDate: '2018-06-01',
+    endDate: '2022-08-15',
     summary: 'Jeep Wagoneer',
     highlights: [
       'Upgraded predictions of exhaust routing\'s installation positional variance with GD&T tolerancing.',

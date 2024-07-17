@@ -1,7 +1,7 @@
 const degrees = [
   {
     school: 'Stephen M. Ross School of Business at the University of Michigan',
-    degree: 'MBA',
+    degree: 'Master of Business Administration',
     link: 'https://michiganross.umich.edu/graduate/full-time-mba',
     year: 2026,
   },
