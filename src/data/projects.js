@@ -15,7 +15,7 @@ const data = [
     image: '/images/projects/OverlayColorPlot.jpg',
     date: '2022-05-01',
     desc: 'Studying the surface structure of the sintered heat sinks revealed positive features from severe overhang angles and melt pool splatter. This figure was obtained by overlaying a point cloud from a micro-CT scan with the print\'s STEP file.',
-  }
+  },
 ];
 
 export default data;
