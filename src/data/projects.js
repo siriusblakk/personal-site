@@ -15,15 +15,7 @@ const data = [
     image: '/images/projects/OverlayColorPlot.jpg',
     date: '2022-05-01',
     desc: 'Studying the surface structure of the sintered heat sinks revealed positive features from severe overhang angles and melt pool splatter. This figure was obtained by overlaying a point cloud from a micro-CT scan with the print\'s STEP file.',
-  },
-  {
-    title: 'Experimental Verification of 2D Model and Insight into Optimization Model',
-    subtitle: 'Water test loop to measure thermal resistance and hydraulic penalty.',
-    link: 'https://sel.me.wisc.edu/publications-theses.shtml',
-    image: '/images/projects/UAvsdP.png',
-    date: '2022-05-01',
-    desc: 'The conventional geometries (RF) matched predictions after sanding (_S) while the optimized geometries (TO) did not perform to the modelling team\'s expectations.',
-  },
+  }
 ];
 
 export default data;

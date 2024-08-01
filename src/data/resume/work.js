@@ -21,8 +21,8 @@ const work = [
     summary: 'I led testing on experimental water and CO2 test loops. Additionally, I helped design and execute volunteer activities to invest in our community.',
 
     highlights: [
-      'Modeled, designed, defended, and built innovative 150kW CO2 experimental refrigeration test loop to recycle process heat.',
-      'Create and own P&ID\'s, control systems (LabVIEW), data analysis scripts (MATLAB and Python), and instrumentation on loops.',
+      'Mitigated damaging vibration in an Italian grocery store by identifying and implementing onsite fixes, slashing vibration from 50g RMS to 5g RMS, ensuring equipment safety and reliability. Presented solution to executive staff.',
+      'Saved Belgium grocery store measurement campaign by defining goals and coordinating onsite activities among internal teams, clients, and consultants, preventing project delays.',
       'Component sizing for R&D and Business Installations: Pumps, Heat Exchangers, Valves, Compressors, ect.',
       'Measure and analyze high-speed vibration and sound (25.6kHz) at challenging product installations internationally and state-side. Led missions to identify problem, exact solutions, and communicate impact to executive leadership.',
       'Led volunteer taskforce with $100,000 budget to develop cross functional volunteering opportunities that allign with Energy Recovery\'s mission. Events included Earth Day park cleanups, blood donation drives, and school supply drives.',

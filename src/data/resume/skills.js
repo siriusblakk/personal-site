@@ -55,11 +55,6 @@ const skills = [
     category: ['Data Engineering', 'ML Engineering', 'Python'],
   },
   {
-    title: 'Scikit-Learn',
-    competency: 3,
-    category: ['Data Engineering', 'ML Engineering', 'Python'],
-  },
-  {
     title: 'LabVIEW',
     competency: 3,
     category: ['Data Engineering'],
