@@ -18,7 +18,6 @@ const Index = () => (
       </header>
       <p> Welcome! Please feel free to read more <Link to="/about">about me</Link>,
         or you can check out my {' '}
-        <Link to="/resume">resume</Link>, {' '}
         <Link to="/projects">technical work</Link>, {' '}
         <Link to="/personal">fun personal projects</Link>, {' '}
         or <Link to="/contact">reach out to contact</Link> me.

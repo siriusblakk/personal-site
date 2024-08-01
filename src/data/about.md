@@ -1,8 +1,8 @@
 # Intro
 
-Hi! My name is Gunnar and I am an MBA student at Michigan Ross. I am passionate about equitable education, impactful leadership, and sustainable energy.  
+Hi! My name is Gunnar and I am an MBA student at Michigan Ross. I am passionate about equitable education, impactful leadership, business strategy, and sustainable energy.  
 
-This website is designed to vulnerably share my values and personality. I love meeting new people, so feel free to reach out!
+This website is designed to share my values and personality. I love meeting new people, so feel free to reach out!
 
 # I like
 
