@@ -19,7 +19,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Gunnar. I'm inspired by people who live with vigor. I am an MBA student at <a href="https://michiganross.umich.edu/graduate/full-time-mba">Michigan Ross</a>, a <a href="https://engineering.wisc.edu/departments/mechanical-engineering/">UW-Madison ME</a> Alum, a recreational artist and musician,
+      <p>Hi, my name is Gunnar and I&apos;m inspired by people who live with vigor. I am an MBA student at <a href="https://michiganross.umich.edu/graduate/full-time-mba">Michigan Ross</a>, a <a href="https://engineering.wisc.edu/departments/mechanical-engineering/">UW-Madison ME</a> Alum, a recreational artist and musician,
         and was a Test Engineer at <a href="https://energyrecovery.com/">Energy Recovery</a>.
       </p>
     </section>
