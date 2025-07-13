@@ -1,6 +1,6 @@
 // TODO Add a couple lines about each project
 const data = [
-   {
+  {
     title: 'Janel and David\'s Wedding Gift',
     subtitle: '',
     image: '/images/projects/berkeley.png',
