@@ -1,5 +1,33 @@
 // TODO Add a couple lines about each project
 const data = [
+   {
+    title: 'Janel and David\'s Wedding Gift',
+    subtitle: '',
+    image: '/images/projects/berkeley.png',
+    date: '2025-04-09',
+    desc: 'Two of my favorite people. They met at UC-Berkeley and have a beautiful love story. I also love how this captures the intersection of the three states of matter (sky, waves, hills).',
+  },
+  {
+    title: 'Sreya and Nagu\'s Wedding Gift',
+    subtitle: '',
+    image: '/images/projects/chidambaram.png',
+    date: '2025-02-02',
+    desc: 'A gift to my childhood best friend and his partner. It is of his ancestral home in Tamil Nadu, India. Giving him the sketch inside this home was a life achievement for me.',
+  },
+  {
+    title: 'A Glimpse of Home',
+    subtitle: '',
+    image: '/images/projects/katie.png',
+    date: '2024-11-09',
+    desc: 'Birthday present to my NY friend Katie.',
+  },
+  {
+    title: 'Micayla and Lucas\' Wedding Gift',
+    subtitle: '',
+    image: '/images/projects/micayla.png',
+    date: '2025-07-11',
+    desc: 'A gift to an adventurous friend.',
+  },
   {
     title: 'The Snake River and the Grand Tetons with Dad',
     subtitle: '',

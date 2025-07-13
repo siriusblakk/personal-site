@@ -27,7 +27,7 @@ const data = [
   {
     key: 'countries',
     label: 'Countries visited',
-    value: 11,
+    value: 16,
     link:
       'https://www.google.com/maps/d/edit?mid=1nbrwdUB-LZuLCxMQtYNYknmk6u5fjOU&usp=sharing',
   },
