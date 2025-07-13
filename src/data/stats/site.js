@@ -6,7 +6,7 @@ import dayjs from 'dayjs';
  */
 const data = [
   {
-    label: 'Stars this repository has on github',
+    label: 'Stars  this repository has on github',
     key: 'stargazers_count',
     link: 'https://github.com/mldangelo/personal-site/stargazers',
   },
